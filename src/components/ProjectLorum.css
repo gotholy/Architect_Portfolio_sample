@@ -1,0 +1,23 @@
+.lorumWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 10vw 10vh 10vw;
+}
+.lorumImg {
+  width: 55vw;
+  height: 85vh;
+  background-image: url(/img/ProjectLorum.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}

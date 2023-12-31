@@ -1,0 +1,43 @@
+.aboutWrapper {
+  display: flex;
+  flex-direction: row;
+  height: 50vh;
+  justify-content: space-around;
+  padding: 0 4vw 2vh 10vw;
+  margin-bottom: 10vh;
+}
+.aboutImgContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 2vw;
+  align-items: center;
+}
+.imgGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+}
+.aboutArticle {
+  width: 40vw;
+  text-align: left;
+  padding-right: 10vw;
+}
+.aboutArticle h2 {
+  margin: 0;
+  padding-bottom: 1vh;
+}
+.aboutArticle p {
+  padding-bottom: 6vh;
+}
+.aboutImg1 {
+  width: 270px;
+  height: 265px;
+}
+.aboutImg2 {
+  width: 270px;
+  height: 140px;
+}
+.aboutImg3 {
+  width: 270px;
+  height: 345px;
+}

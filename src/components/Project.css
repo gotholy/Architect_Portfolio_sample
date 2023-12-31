@@ -1,0 +1,39 @@
+.ourProjectsGallery {
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+  gap: 2vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  margin-bottom: 10vh;
+  margin: 0 10vw 10vh 10vw;
+}
+.ourProjectsGallery .container1 {
+  display: flex;
+  justify-content: space-between;
+  gap: 2vw;
+}
+.ourProjectsGallery .container2 {
+  display: flex;
+  justify-content: space-between;
+  gap: 2vw;
+}
+.item1,
+.item2 {
+  width: 39vw;
+  height: auto;
+}
+.item3 {
+  width: 20vw;
+  height: auto;
+}
+
+.item4 {
+  width: 32vw;
+  height: auto;
+}
+
+.item5 {
+  width: 24vw;
+  height: auto;
+}

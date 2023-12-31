@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin: 0vh 10vw 3vh 10vw;
+  padding-top: 3vh;
+}
+.headerNav {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  gap: 5vw;
+  margin-right: -13vw;
+}
+.headerNav a {
+  font-family: RobotoLight;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 12px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #333;
+}

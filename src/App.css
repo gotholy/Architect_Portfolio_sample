@@ -1,0 +1,35 @@
+.dark {
+  background-color: rgb(48, 48, 48);
+  color: white;
+  min-height: 100vh;
+}
+
+.dark a {
+  color: white;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2 {
+  color: #bdbdbd;
+  font-family: RobotoLight;
+  font-size: 64px;
+  font-style: normal;
+  line-height: 64px;
+}
+h2 span {
+  font-family: RobotoBold;
+  font-size: 64px;
+  font-style: normal;
+  line-height: 64px;
+  color: #333;
+}
+p {
+  color: #000;
+  font-family: RobotoLight;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 25px;
+}

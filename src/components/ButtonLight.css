@@ -1,0 +1,17 @@
+.buttonLight {
+  font-family: Roboto;
+  width: 222px;
+  height: 71px;
+  font-size: 12px;
+  font-style: normal;
+  line-height: 12px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: none;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 2vw;
+}
